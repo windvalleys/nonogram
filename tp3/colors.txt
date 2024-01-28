@@ -1,0 +1,3 @@
+lightCoral,lightSalmon,darkSeaGreen,lightSteelBlue,
+skyBlue,mediumTurquoise,plum,darkSlateBlue,paleVioletRed,
+rosyBrown,darkGray
